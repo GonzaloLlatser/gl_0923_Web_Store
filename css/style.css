@@ -32,7 +32,7 @@ body {
 }
 
 p {
-    font-size: 18rem;
+    font-size: 1.8rem;
     font-family: Arial, Helvetica, sans-serif;
     color: var(--blanco);
 }
@@ -116,3 +116,24 @@ font-family: var(--fuentePrincipal);
 font-size: 2.2rem;
 }
 
+/* Estilos de Productos */
+
+.producto{
+
+}
+
+.producto__imagen{
+
+}
+
+.producto__informacion{
+
+}
+
+.producto__nombre{
+
+}
+
+.producto__precio{
+
+}
