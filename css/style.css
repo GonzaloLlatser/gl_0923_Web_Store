@@ -174,7 +174,7 @@ h3 {
     background-image: url(../img/grafico1.jpg);
 }
 
-.grafico--node{
+.grafico--node {
     background-image: url(../img/grafico2.jpg);
     grid-row: 8 / 9;
 }
@@ -185,3 +185,30 @@ h3 {
         grid-column: 2 / 4;
     }
 }
+
+/* Estilos de pagina Nosotros */
+
+.nosotros__contenedor {
+    background-color: #3218b5;
+}
+
+.nosotros {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+.nosotros__parrafo {}
+
+.nosotros__img {}
+
+.iconos {}
